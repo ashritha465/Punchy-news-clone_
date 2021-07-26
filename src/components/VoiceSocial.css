@@ -1,0 +1,18 @@
+.icondiv {
+    display: inline-block; 
+    width: 100%;
+  }
+  .right {
+    float: right;
+    /* border: 1px solid rgb(38, 0, 255); */
+  }
+  .left {
+    float: left;
+    /* border: 1px solid rgb(9, 255, 0); */
+  }
+ .stylevoicebutton{
+   background-color: rgb(255, 255, 255);
+   border:none;
+ }
+
+
