@@ -1,0 +1,47 @@
+.icondiv {
+    display: inline-block; 
+    width: 100%;
+   
+
+  }
+  .right {
+    float: right;
+    /* border: 1px solid rgb(38, 0, 255); */
+  }
+  .left {
+    float: left;
+    /* border: 1px solid rgb(9, 255, 0); */
+  }
+  .nytimes{
+      font-size: small;
+      text-align: center;
+  }
+  .content{
+  text-align: justify;
+  }
+  .addhome>button{
+      color: hotpink;
+      justify-content: center;
+      border: hidden;
+      text-decoration: underline;
+    
+  }
+  .addhome{
+    justify-content: center;
+
+  }
+
+.previousicon{
+    float: left;
+    
+}
+
+.refreshicon{
+text-align: center;
+}
+.nexticon{
+    float:right;
+}
+.footer{
+    background-color: rgb(251,251,71);
+}
